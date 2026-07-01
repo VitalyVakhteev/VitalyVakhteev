@@ -2,7 +2,7 @@
 
 Welcome to my page! I'm Vitaly.
 
-I am soon to be an undergraduate student at Cal Poly Pomona's College of Engineering, studying Electrical Engineering. Most of the stuff you see on here is fun web dev projects, though there are tons of private repositories where I'm working on robotics-related matters.
+I am an undergraduate student at Cal Poly Pomona's College of Engineering, studying Electrical Engineering. Most of the stuff you see on here is fun web dev projects, though there are tons of private repositories where I'm working on robotics-related matters.
 
 I intend to pursue a baccalaureate in Electrical Engineering, with an interest in embedded electronics, power systems, and control systems.
 
